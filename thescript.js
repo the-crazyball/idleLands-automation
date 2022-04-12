@@ -5,9 +5,9 @@
 // @description  A collection of automation scripts for IdleLands
 // @downloadURL  https://raw.githubusercontent.com/the-crazyball/idleLands-automation/main/thescript.js
 // @updateURL    https://raw.githubusercontent.com/the-crazyball/idleLands-automation/main/thescript.meta.js
-// @author       Ian Duchesne (Torsin aka Crazyball)
-// @copyright    2020, Ian Duchesne (Torsin aka Crazyball) (http://www.thecrazyball.io/)
-// @homepage     http://www.thecrazyball.io/
+// @author       Torsin
+// @copyright    2020, Torsin
+// @homepage     http://www.none.com/
 // @match        https://play.idle.land/*
 // @require      https://raw.githubusercontent.com/the-crazyball/idleLands-automation/main/utils.js
 // @require      https://raw.githubusercontent.com/the-crazyball/idleLands-automation/main/gameData.js
@@ -21,8 +21,6 @@
 // ==/UserScript==
 
 // #######################################################################################################################################################################
-// Discord server:
-//   https://discord.gg/HB8QUxh2Qs (support for this script, updates and general chit chat)
 //
 // Source code:
 //   https://github.com/the-crazyball/idleLands-automation
